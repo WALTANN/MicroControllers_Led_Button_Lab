@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/123/папка_для_проекта/MyTestProject/build/debug/CMakeFiles/MyTestProject.dir
+C:/Users/user/Desktop/123/папка_для_проекта/MyTestProject/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/123/папка_для_проекта/MyTestProject/build/debug/CMakeFiles/rebuild_cache.dir
